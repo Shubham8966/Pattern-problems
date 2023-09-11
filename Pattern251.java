@@ -1,3 +1,10 @@
+/*
+XOXOX
+O   O
+X   X
+O   O
+OX   
+ */
 
 public class Pattern251 
 {
